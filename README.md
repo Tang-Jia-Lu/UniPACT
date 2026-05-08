@@ -26,8 +26,8 @@ UniPACT is a single multimodal LLM that fuses **raw 12-lead ECG waveforms** with
 |  | **INFLEXIBLE** *(specialized prognosis models)* | **UNIFIED** *(UniPACT)* |
 |---|---|---|
 | Tasks | One task per model | **One model, all 1443 tasks** |
-| Missing values | Fills gaps with zeros | **Uses only observed values** |
-| Interface | Numeric I/O only | **Native language interface** |
+| Missing values | Missing-value imputation | **Uses only observed values** | 
+| Interface | Numeric I/O only | **Natural language interaction** |
 
 ## 📊 Results at a glance
 
